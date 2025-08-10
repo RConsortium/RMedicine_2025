@@ -1,0 +1,54 @@
+---
+title: "Committees for R/Medicine 2025"
+---
+
+:::::: columns
+::: {.column width="45%"}
+## Organizing Committee
+
+-   **Chair: Emily Zabor, Cleveland Clinic**
+-   Terry Christiani, The R Consortium
+-   Peter Higgins, University of Michigan
+-   Joy Payton
+-   Steven Schwager, Cornell University
+-   Ray Balise, University of Miami
+-   Beth Atkinson, Mayo Clinic
+-   Michael Kane, MD Anderson
+-   Daniel Chen, The University of BC & Posit
+-   Andey Nunes-Brewster, Oregon Health Authority
+-   Ben Gerber, UMass
+-   Daniel Sjoberg, Genentech
+-   Claire Welsh, National Health Service
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="45%"}
+## Program Committee
+
+-   **Chair: Daniel Sjoberg, Genentech**
+-   Peter Higgins, University of Michigan
+-   Steven Schwager, Cornell University
+-   Michael Kane, MD Anderson
+-   Daniel Chen, The University of BC & Posit
+-   Ben Gerber, UMass
+-   Beth Atkinson, Mayo Clinic
+:::
+::::::
+
+<br>
+
+## Past chairs
+
+Michael Kane, MD Anderson. Organizing committee and Program committee chair: 2018, 2019
+
+Stephan Kadauke, Children's Hospital of Philadelphia. Organizing committee chair: 2020, 2021, 2022
+
+Beth Atkinson, Mayo Clinic. Program committee chair: 2020
+
+Steven Schwager, Cornell University. Program committee chair: 2021, 2022, 2023, 2024
+
+Peter Higgins, University of Michigan. Organizing committee chair: 2023, 2024
+
