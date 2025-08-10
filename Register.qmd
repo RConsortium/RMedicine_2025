@@ -1,14 +1,6 @@
 ## Registration
 
-### Registration is now open!
-
-<button class="btn btn-primary" style="background-color: #009473" onclick="window.location.href=&#39;https://events.zoom.us/ev/Ary4n0gHYgxRCElrRRk-VtYMY7U1RqFT6ceYf8FmTErQlMuI9H7A~ArHKCkWO_DutzLw_AdvOKPtA6RVDz12I4PBqXncSsqdpum5kFyRtEovYWA&#39;">
-
-**REGISTER HERE**
-
-</button>
-
-<br>
+### Registration is closed
 
 *Note that Zoom Events excludes some countries from processing event payments, though attendance is still permitted. If you are registering from country where payment is blocked (see the list at Zoom Events [here](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0063856)) please email r-medicine\@r-consortium.org to request a manual registration. All are welcome at R/Medicine!*
 

@@ -4,6 +4,7 @@ project:
 
 website:
   title: "R/Medicine 2025"
+  site-url: https://rconsortium.github.io/RMedicine_2025/
   navbar:
     left:
       - href: index.qmd
